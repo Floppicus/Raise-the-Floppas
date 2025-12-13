@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: Cat skin request
 about: Suggest an idea for this project
-title: A new idea [FEATURE]
-labels: ''
+title: ''
+labels: cat skin, feature
 assignees: Floppicus
 
 ---
