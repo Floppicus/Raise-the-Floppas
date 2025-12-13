@@ -1,20 +1,20 @@
 ---
 name: Cat skin request
-about: Suggest an idea for this project
-title: ''
+about: Suggest a cat skin idea for this project
+title: New cat type [CAT SKIN]
 labels: cat skin, feature
 assignees: Floppicus
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Would you like your cat to be sold? Please describe.**
+A clear and concise description of your choice. Ex. I'm pretty sure to sell [...] on the cat store
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Could you send a file/image of the cat you would like to be added in the game?**
+A clear .png image of your cat or meme. OR. A clear and concise description of why you can't send it.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What should be the cat's name, and how much will it cost?**
+The cat's name and how much will it cost on the store (IF IT WILL BE SOLD). Ex. John - 100$
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+Add any other context or screenshots about the cat request here.
